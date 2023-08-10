@@ -481,16 +481,12 @@ _waEmbed(wa_btnSetting);
 };
 </script>
 
-
-
 <!-- page scroll up -->
 
 
 
 
 <!-- page scroll up section ended -->
-
-
   <!-- footer section -->
   
   <footer class="footer_section">

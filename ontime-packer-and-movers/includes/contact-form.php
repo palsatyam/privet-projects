@@ -18,7 +18,7 @@
               </div>
 
 <h4 class="sent-notification"></h4>
-              <form id="myForm" method="POST">
+              <form id="myForm">
                 <div class="form-row">
                   <div class="form-group col-md-6">
                     <input  type="text" class="form-control" id="name" placeholder="First Name" />
@@ -32,7 +32,7 @@
                     <input type="email" class="form-control" id="eamil" placeholder="Email" />
                   </div>
                   <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="phone" placeholder="Phone Number" />
+                    <input type="" class="form-control" id="phone" placeholder="Phone Number" />
                   </div>
                 </div>
                 <div class="form-group ">
