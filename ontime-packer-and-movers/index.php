@@ -2,6 +2,9 @@
 <html>
 
 <head>
+
+
+
   <!-- Basic -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -484,16 +487,6 @@ _waEmbed(wa_btnSetting);
 
 
 
-<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-
-
-
-
-
-
-
-  <!-- footer section -->
   
   <footer class="footer_section">
     <div class="container">
