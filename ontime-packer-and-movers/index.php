@@ -481,12 +481,18 @@ _waEmbed(wa_btnSetting);
 };
 </script>
 
-<!-- page scroll up -->
+
+
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 
 
 
-<!-- page scroll up section ended -->
+
+
+
+
   <!-- footer section -->
   
   <footer class="footer_section">

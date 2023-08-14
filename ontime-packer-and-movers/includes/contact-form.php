@@ -3,12 +3,6 @@
     <div class="container">
       <div class="row">
         <div class="col-md-11 col-lg-9 mx-auto">
-
-
-
-
-
-
           <div class="map_form_container">
             <div class="form_container">
               <div class="heading_container heading_center">
@@ -32,7 +26,7 @@
                     <input type="email" class="form-control" id="eamil" placeholder="Email" />
                   </div>
                   <div class="form-group col-md-6">
-                    <input type="" class="form-control" id="phone" placeholder="Phone Number" />
+                    <input type="number" class="form-control" id="phone" placeholder="Phone Number" />
                   </div>
                 </div>
                 <div class="form-group ">
@@ -43,8 +37,26 @@
                 </div>
               </form>
 
+            </div>
+            <div class="map_container">
+              <div class="map">
+                <div id="googleMap"></div>
+              </div>
+              <div class="btn-box">
+                <button id="showForm" class="map_btn">
+                  Form
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
 
-              <script
+      </div>
+    </div>
+  </section>
+
+
+  <script
   src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
    <script type="text/javascript">
     function sendEmail(){
@@ -85,25 +97,3 @@
       }
     }
    </script>
-
-
-
-            </div>
-            <div class="map_container">
-              <div class="map">
-                <div id="googleMap"></div>
-              </div>
-              <div class="btn-box">
-                <button id="showForm" class="map_btn">
-                  Form
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-      </div>
-    </div>
-  </section>
