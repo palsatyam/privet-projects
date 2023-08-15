@@ -255,7 +255,7 @@
                   Moving to a new home is a significant milestone. Ensuring that your transition is smooth, stress-free,
                   and enjoyable.
                 </p>
-                <a href="services/homeshift.html">
+                <a href="homeshift.html">
                   Read More
                   <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                 </a>
@@ -274,7 +274,7 @@
                 <p>
                   Moving your office to a new location is a significant undertaking that requires careful planning,
                 </p>
-                <a href="services/officeshift.htm">
+                <a href="officeshift.htm">
                   Read More
                   <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                 </a>
@@ -293,7 +293,7 @@
                 <p>
                   Moving to a new city or state can be both exciting and challenging. At Gati Global Packers and Movers
                 </p>
-                <a href="services/domesticmove.html">
+                <a href="domesticmove.html">
                   Read More
                   <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                 </a>
@@ -483,11 +483,16 @@ window.onload = () => {
 _waEmbed(wa_btnSetting);
 };
 </script>
+ 
 
 
 
 
-  
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+
   <footer class="footer_section">
     <div class="container">
       <a href="index.php" class="footer-brand">
@@ -571,7 +576,7 @@ _waEmbed(wa_btnSetting);
   
 
   <!-- jQery -->
-  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/jquery-3.4.1.min.js"></scrip>
   <!-- popper js -->
   <script src="js/popper.min.js"></script>
   <!-- bootstrap js -->
