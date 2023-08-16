@@ -132,7 +132,7 @@
 
   <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
   <script>
-  var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Us","cornerRadius":40,"marginBottom":"20","marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"918595728710","welcomeMessage":"","zIndex":999999,"btnColorScheme":"dark"};
+  var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Us","cornerRadius":40,"marginBottom":"20","marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"918708574938","welcomeMessage":"","zIndex":999999,"btnColorScheme":"dark"};
   window.onload = () => {
   _waEmbed(wa_btnSetting);
   };
@@ -140,11 +140,12 @@
   
 
 
-  <!-- footer section -->
-  <footer class="footer_section">
+  
+<!-- footer section starts -->
+<footer class="footer_section">
     <div class="container">
       <a href="index.php" class="footer-brand">
-        <img src="images/logo_main.png" alt="#" />
+        <img src="images/logo_main.png" alt="logo not found" />
       </a>
       <div class="col-lg-10 mx-auto px-0">
         <div class="footer_items">
@@ -162,25 +163,25 @@
               </a>
             </div>
             <div class="col-md-4">
-              <a href="tel:+91-8907077878">
+              <a href="tel:+91-8708574938">
                 <div class="item ">
                   <div class="img-box ">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                   </div>
                   <p>
-                    +91 8708574938
+                  +91-8708574938
                   </p>
                 </div>
               </a>
             </div>
             <div class="col-md-4">
-              <a href="mailto:gatiglobalpackersandmovers@gmail.com">
+              <a href="mailto:houseshiftingpartner@gmail.com">
                 <div class="item ">
                   <div class="img-box">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                   </div>
                   <p>
-                    ontimepackersmover.com
+                    houseshiftingpartner@gmail.com
                   </p>
                 </div>
               </a>
@@ -193,20 +194,17 @@
           Follow Us
         </h4>
         <div class="box">
-          <a href="">
+          <a href="https://www.facebook.com/profile.php?id=61550274572238&mibextid=ZbWKwL" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://twitter.com/houseshiftingpa" target="_blank">
             <i class="fa fa-twitter" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://youtube.com/houseshiftingpartner" target="_blank">
             <i class="fa fa-youtube" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://instagram.com/houseshiftingpartner" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
-          </a>
-          <a href="">
-            <i class="fa fa-google-plus" aria-hidden="true"></i>
           </a>
         </div>
       </div>
@@ -215,7 +213,7 @@
       <div class="container">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By 
-          <a href="www.codexzon.myomni.in"> CODEXZON (ER-SATYAM PAL)</a>
+          <a href="www.codexzon.com"> CODEXZON (ER-SATYAM PAL)</a>
         </p>
       </div>
     </div>

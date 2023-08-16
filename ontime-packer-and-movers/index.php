@@ -46,16 +46,16 @@
             <div class="col-md-4">
               <div class="full">
                 <div class="social_box">
-                  <a href="">
+                  <a href="https://www.facebook.com/profile.php?id=61550274572238&mibextid=ZbWKwL" target="_blank">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a href="https://twitter.com/houseshiftingpa" target="_blank">
                     <i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a href="https://instagram.com/houseshiftingpartner" target="_blank">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                   </a>
-                  <a href="">
+                  <a href="https://youtube.com/houseshiftingpartner" target="_blank">
                     <i class="fa fa-youtube" aria-hidden="true"></i>
                   </a>
                 </div>
@@ -64,10 +64,10 @@
             <div class="col-md-8">
               <div class="full">
                 <div class="contact_nav">
-                  <a href="mailto:gatiglobalpackersandmovers@gmail.com">
+                  <a href="mailto:houseshiftingpartner@gmail.com">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                     <span>
-                      ontimepackersmover.com
+                      houseshiftingpartner@gmail.com
                     </span>
                   </a>
                   <a href="tel:+91-8907077878" class="call-link">
@@ -133,10 +133,10 @@
                 <div class="col-md-9 col-lg-6">
                   <div class="detail-box">
                     <h1>
-                       THEHOUSE-SHIFTINGPARTNER! Best Service
+                       HOUSESHIFTINGPARTNER! Best Service
                     </h1>
                     <p>
-                      Welcome to the-house-shifting-partner! </p>
+                      Welcome to House-Shifting-Partner! </p>
 
                       <p>
                          We're more than just a moving company; we're your dependable partner
@@ -160,13 +160,13 @@
                 <div class="col-md-9 col-lg-6">
                   <div class="detail-box">
                     <h1>
-                      THEHOUSE-SHIFTINGPARTNER! Best Service
+                      HOUSESHIFTINGPARTNER! Best Service
                    </h1>
                     <p>
                       Moving to a new home or office is a significant
                        life event that comes with excitement and new opportunities.
                         However, the process of packing and relocating 
-                        can also be overwhelming and stressful. The-house-shifting-partner 
+                        can also be overwhelming and stressful. HOUSESHIFTINGPARTNER 
                         can make all the difference in ensuring a smooth 
                         and hassle-free moving experience.
                     </p>
@@ -215,10 +215,11 @@
             </div>
             <p>
               Welcome to 
-              THEHOUSE-SHIFTINGPARTNER Packers and Movers! We're more than just a
+              HOUSESHIFTINGPARTNER Packers and Movers! We're more than just a
                moving company; we're your dependable partner in producing an
                 outstanding moving experience. Beyond the standard packing and moving
-                 services, we provide a range of advanced amenities with a priority on quality and client pleasure.
+                 services, we provide a range of advanced amenities with a priority on
+                  quality and client pleasure.
             </p>
             <a href="about.html">
               Read More
@@ -369,16 +370,16 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Delhi</a>
-                <a href="#"
+                <a  class="list-group-item list-group-item-action">Delhi</a>
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Bangalore</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Mumbai</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Hyderabad</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Kolkata</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Shrinagar</a>
               </div>
             </div>
@@ -391,16 +392,16 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Rachi</a>
-                <a href="#"
+                <a  class="list-group-item list-group-item-action">Rachi</a>
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Patna</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Trivandrum</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Chennai</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Gurgaon</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Chandigarh</a>
               </div>
             </div>
@@ -414,16 +415,16 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Pune</a>
-                <a href="#"
+                <a  class="list-group-item list-group-item-action">Pune</a>
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Bhubaneswar</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Gujarat</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Amritsar</a>
               </div>
             </div>
@@ -437,48 +438,40 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Lucknow</a>
-                <a href="#"
+                <a  class="list-group-item list-group-item-action">Lucknow</a>
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Surat</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Agra</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Bhopal</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Kanpur</a>
-                <a href="#"
+                <a 
                   class="list-group-item list-group-item-action list-group-item-dark">Indore</a>
               </div>
             </div>
           </div>
         </div>
-
-
       </div>
 
     </div>
     </div>
-
-
-
 
     </div>
     </div>
   </section>
 
   <!-- Our Office Location Section Ended From Here-->
-
   <!-- contact section -->
-
   <?php
   include_once(__DIR__."/includes/contact-form.php");
   ?>
-
   <!-- end contact section -->
 
 <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
 <script>
-var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Us","cornerRadius":40,"marginBottom":"20","marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"918595728710","welcomeMessage":"","zIndex":999999,"btnColorScheme":"dark"};
+var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Us","cornerRadius":40,"marginBottom":"20","marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"918708574938","welcomeMessage":"","zIndex":999999,"btnColorScheme":"dark"};
 window.onload = () => {
 _waEmbed(wa_btnSetting);
 };
@@ -487,16 +480,18 @@ _waEmbed(wa_btnSetting);
 
 
 
+<!-- scrolling  starts-->
+
+<!-- <a href="" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
+
+<!-- scrolling  Ended-->
 
 
-<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-
-
+<!-- footer section starts -->
   <footer class="footer_section">
     <div class="container">
       <a href="index.php" class="footer-brand">
-        <img src="images/logo_main.png" alt="#" />
+        <img src="images/logo_main.png" alt="logo not found" />
       </a>
       <div class="col-lg-10 mx-auto px-0">
         <div class="footer_items">
@@ -514,25 +509,25 @@ _waEmbed(wa_btnSetting);
               </a>
             </div>
             <div class="col-md-4">
-              <a href="tel:+91-8907077878">
+              <a href="tel:+91-8708574938">
                 <div class="item ">
                   <div class="img-box ">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                   </div>
                   <p>
-                    +91 8708574938
+                  +91-8708574938
                   </p>
                 </div>
               </a>
             </div>
             <div class="col-md-4">
-              <a href="mailto:gatiglobalpackersandmovers@gmail.com">
+              <a href="mailto:houseshiftingpartner@gmail.com">
                 <div class="item ">
                   <div class="img-box">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                   </div>
                   <p>
-                    ontimepackersmover.com
+                    houseshiftingpartner@gmail.com
                   </p>
                 </div>
               </a>
@@ -545,20 +540,17 @@ _waEmbed(wa_btnSetting);
           Follow Us
         </h4>
         <div class="box">
-          <a href="">
+          <a href="https://www.facebook.com/profile.php?id=61550274572238&mibextid=ZbWKwL" target="_blank">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://twitter.com/houseshiftingpa" target="_blank">
             <i class="fa fa-twitter" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://youtube.com/houseshiftingpartner" target="_blank">
             <i class="fa fa-youtube" aria-hidden="true"></i>
           </a>
-          <a href="">
+          <a href="https://instagram.com/houseshiftingpartner" target="_blank">
             <i class="fa fa-instagram" aria-hidden="true"></i>
-          </a>
-          <a href="">
-            <i class="fa fa-google-plus" aria-hidden="true"></i>
           </a>
         </div>
       </div>
@@ -567,7 +559,7 @@ _waEmbed(wa_btnSetting);
       <div class="container">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By 
-          <a href="www.codexzon.myomni.in"> CODEXZON (ER-SATYAM PAL)</a>
+          <a href="www.codexzon.com"> CODEXZON (ER-SATYAM PAL)</a>
         </p>
       </div>
     </div>
