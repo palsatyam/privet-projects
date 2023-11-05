@@ -133,12 +133,14 @@
               <div class="row">
                 <div class="col-md-9 col-lg-6">
                   <div class="detail-box">
-                    <h1>
-                       HOUSESHIFTINGPARTNER! Best Service
+                  <h1>
+                     HOUSE SHIFTING PARTNER
+                     <div class="heading_container">
+                       <h2>
+                        <span>Best Service</span>
+                       </h2> 
+                      </div>
                     </h1>
-                    <p>
-                      Welcome to House-Shifting-Partner! </p>
-
                       <p>
                          We're more than just a moving company; we're your dependable partner
                         in producing an outstanding moving experience.
@@ -161,15 +163,20 @@
                 <div class="col-md-9 col-lg-6">
                   <div class="detail-box">
                     <h1>
-                      HOUSESHIFTINGPARTNER! Best Service
-                   </h1>
+                     HOUSE SHIFTING PARTNER
+                     <div class="heading_container">
+                       <h2>
+                        <span>Best Service</span>
+                       </h2> 
+                      </div>
+                    </h1>
                     <p>
-                      Moving to a new home or office is a significant
-                       life event that comes with excitement and new opportunities.
-                        However, the process of packing and relocating 
-                        can also be overwhelming and stressful. HOUSESHIFTINGPARTNER 
-                        can make all the difference in ensuring a smooth 
-                        and hassle-free moving experience.
+                    Are you planning to move to a new house? Look no further 
+                    than House Shifting Partner for all your relocation needs.
+                     Our expert team is dedicated to making your moving experience as
+                      smooth and stress-free as possible. With our comprehensive range of services,
+                       including packing, transportation,
+                     and unpacking, we ensure the safe and efficient transfer of your belongings to your new home.
                     </p>
                     <div class="btn-box">
                       <a href="contact.php" class="btn1">
@@ -216,11 +223,11 @@
             </div>
             <p>
               Welcome to 
-              HOUSESHIFTINGPARTNER Packers and Movers! We're more than just a
-               moving company; we're your dependable partner in producing an
-                outstanding moving experience. Beyond the standard packing and moving
-                 services, we provide a range of advanced amenities with a priority on
-                  quality and client pleasure.
+              <b>HOUSE SHIFTING PARTNER</b> Packers and Movers! 	At House Shifting Partner,
+               we are committed to providing exceptional house shifting services that 
+               prioritize efficiency, reliability, and customer satisfaction. With a team of dedicated professionals,
+               we aim to simplify the moving process and ensure
+                a stress-free experience for our clients.
             </p>
             <a href="about.html">
               Read More
@@ -254,8 +261,8 @@
                   House Shift
                 </h5>
                 <p>
-                  Moving to a new home is a significant milestone. Ensuring that your transition is smooth, stress-free,
-                  and enjoyable.
+                Efficient and reliable house shifting solutions
+                 tailored to your needs. Trust us for a stress-free moving experience.
                 </p>
                 <a href="homeshift.html">
                   Read More
