@@ -300,7 +300,7 @@
                   Domestic Moving
                 </h5>
                 <p>
-                  Moving to a new city or state can be both exciting and challenging. At Gati Global Packers and Movers
+                  Moving to a new city or state can be both exciting and challenging. At House Shifting Partner and Movers
                 </p>
                 <a href="domesticmove.html">
                   Read More
@@ -341,7 +341,10 @@
               Call Us Today
             </h5>
             <h3>
-              +91 - 8708574938
+              +91 - 8708-57-4938
+            </h3>
+            <h3>
+              +91 - 9105-98-0133
             </h3>
             <p>
               We're here to assist you with any inquiries or questions
@@ -354,12 +357,6 @@
   </section>
 
   <!-- end call section -->
-
-
-
-
-
-
   <!-- Our Offices Location Section Started From Here -->
 
   <section class="about_section layout_padding">
@@ -378,17 +375,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a  class="list-group-item list-group-item-action">Delhi</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Bangalore</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Mumbai</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Hyderabad</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Kolkata</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Shrinagar</a>
+                <a href="#" class="list-group-item list-group-item-action">Delhi</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bangalore</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Mumbai</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Hyderabad</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Kolkata</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Shrinagar</a>
               </div>
             </div>
           </div>
@@ -400,17 +392,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a  class="list-group-item list-group-item-action">Rachi</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Patna</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Trivandrum</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Chennai</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Gurgaon</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Chandigarh</a>
+                <a href="#" class="list-group-item list-group-item-action">Rachi</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Patna</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Trivandrum</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Chennai</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Gurgaon</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Chandigarh</a>
               </div>
             </div>
           </div>
@@ -423,17 +410,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a  class="list-group-item list-group-item-action">Pune</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Bhubaneswar</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Gujarat</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Amritsar</a>
+                <a href="#" class="list-group-item list-group-item-action">Pune</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bhubaneswar</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Gujarat</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Amritsar</a>
               </div>
             </div>
           </div>
@@ -446,17 +428,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a  class="list-group-item list-group-item-action">Lucknow</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Surat</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Agra</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Bhopal</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Kanpur</a>
-                <a 
-                  class="list-group-item list-group-item-action list-group-item-dark">Indore</a>
+                <a href="#" class="list-group-item list-group-item-action">Lucknow</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Surat</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Agra</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bhopal</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Kanpur</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Indore</a>
               </div>
             </div>
           </div>
