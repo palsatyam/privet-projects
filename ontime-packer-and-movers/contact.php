@@ -37,46 +37,46 @@
     </div>
     <!-- header section strats -->
     <header class="header_section">
-      <div class="header_top">
+ <div class="header_top">
         <div class="container header_top_container">
           <div class="row">
-          <div class="col-md-4">
-            <div class="full">
-              <div class="social_box">
-                <a href="">
-                  <i class="fa fa-facebook" aria-hidden="true"></i>
-                </a>
-                <a href="">
-                  <i class="fa fa-twitter" aria-hidden="true"></i>
-                </a>
-                <a href="">
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-                <a href="">
-                  <i class="fa fa-youtube" aria-hidden="true"></i>
-                </a>
+            <div class="col-md-4">
+              <div class="full">
+                <div class="social_box">
+                  <a href="https://www.facebook.com/profile.php?id=61550274572238&mibextid=ZbWKwL" target="_blank">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://twitter.com/houseshiftingpa" target="_blank">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://instagram.com/houseshiftingpartner" target="_blank">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                  </a>
+                  <a href="https://youtube.com/houseshiftingpartner" target="_blank">
+                    <i class="fa fa-youtube" aria-hidden="true"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="full">
+                <div class="contact_nav">
+                  <a href="mailto:houseshiftingpartner@gmail.com">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                    <span>
+                      houseshiftingpartner@gmail.com
+                    </span>
+                  </a>
+                  <a href="tel:+91-8907077878" class="call-link">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <span>
+                      Call : +91-8708574938
+                    </span>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col-md-8">
-            <div class="full">
-              <div class="contact_nav">
-                <a href="mailto:gatiglobalpackersandmovers@gmail.com">
-                  <i class="fa fa-envelope" aria-hidden="true"></i>
-                  <span>
-                    ontimepackersmover.com
-                  </span>
-                </a>
-                <a href="tel:+91-8907077878" class="call-link">
-                  <i class="fa fa-phone" aria-hidden="true"></i>
-                  <span>
-                    Call : +91-8708574938
-                  </span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
         </div>
       </div>
       <div class="header_bottom">
