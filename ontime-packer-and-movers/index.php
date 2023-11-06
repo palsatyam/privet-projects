@@ -396,10 +396,10 @@
               Call Us Today
             </h5>
             <h3>
-              +91 - 8708-57-4938
+              +91 8708574938
             </h3>
             <h3>
-              +91 - 9105-98-0133
+              +91 9105980133
             </h3>
             <p>
               We're here to assist you with any inquiries or questions
@@ -430,12 +430,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Delhi</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bangalore</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Mumbai</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Hyderabad</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Kolkata</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Shrinagar</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action">Delhi</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Bangalore</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Mumbai</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Hyderabad</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Kolkata</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Shrinagar</a>
               </div>
             </div>
           </div>
@@ -447,12 +447,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Rachi</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Patna</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Trivandrum</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Chennai</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Gurgaon</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Chandigarh</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action">Rachi</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Patna</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Trivandrum</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Chennai</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Gurgaon</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Chandigarh</a>
               </div>
             </div>
           </div>
@@ -465,12 +465,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Pune</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bhubaneswar</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Gujarat</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Amritsar</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action">Pune</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Bhubaneswar</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Ahmedabad</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Gujarat</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Amritsar</a>
               </div>
             </div>
           </div>
@@ -483,12 +483,12 @@
           <div class="detail-box">
             <div class="widget widget_meta">
               <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action">Lucknow</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Surat</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Agra</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Bhopal</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Kanpur</a>
-                <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Indore</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action">Lucknow</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Surat</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Agra</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Bhopal</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Kanpur</a>
+                <a href="javascript:void(0)" class="list-group-item list-group-item-action list-group-item-dark">Indore</a>
               </div>
             </div>
           </div>
