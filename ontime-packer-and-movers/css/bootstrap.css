@@ -5612,7 +5612,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-light.list-group-item-action:hover, .list-group-item-light.list-group-item-action:focus {
   color: #818182;
-  background-color: #ececf6;
+  background-color: #10c695;
 }
 
 .list-group-item-light.list-group-item-action.active {
@@ -5621,14 +5621,9 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-color: #818182;
 }
 
-.list-group-item-dark {
-  color: #1b1e21;
-  background-color: #c6c8ca;
-}
-
-.list-group-item-dark.list-group-item-action:hover, .list-group-item-dark.list-group-item-action:focus {
-  color: #1b1e21;
-  background-color: #b9bbbe;
+.list-group-item-dark ,.list-group-item-action:focus {
+  color: #ffffff;
+  background-color: #10c695;
 }
 
 .list-group-item-dark.list-group-item-action.active {
