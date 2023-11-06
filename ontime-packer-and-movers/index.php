@@ -325,6 +325,61 @@
   <!-- end service section -->
 
 
+<!-- Projects reting section Starts-->
+
+<section class="about_section layout_padding">
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="images/stats-img.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container" style="line-height:100px">
+              
+              <div class="row">
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-user"></i></p>
+      <h3>11+</h3>
+      <p>Partners</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-check"></i></p>
+      <h3>800+</h3>
+      <p>Projects</p>
+    </div>
+  </div>
+  
+  <div class="column" style="line-height: 68px">
+    <div class="card">
+      <p><i class="fa fa-smile-o"></i></p>
+      <h3>970+</h3>
+      <p>Happy Clients</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-coffee"></i></p>
+      <h3>604+</h3>
+      <p>Meetings</p>
+    </div>
+  </div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- Projects reting section Starts-->
+
   <!-- call section -->
 
   <section class="call_section ">
