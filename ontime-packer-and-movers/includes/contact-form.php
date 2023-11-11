@@ -1,105 +1,63 @@
-<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-   <script>
-
-    function sendEmail(){
-      var name = $("#name");
-      var lname = $("#lname");
-      var email = $("#email");
-      var phone = $("#phone");
-      var body = $("#body");
-
-
-      console.log(name.val());
-
-      function isNotEmpty(caller){
-      if(caller.val()==""){
-        caller.css('border','1px solid red');
-        return false;
-      }
-      else{
-        caller.css('border','');
-        retrn true;
-      }
-    }
-
-      if(isNotEmpty(name) && isNotEmpty(lname) && isNotEmpty(email) && isNotEmpty(phone) && isNotEmpty(body)){
-        $.ajax({
-                url: 'sendEmail.php',
-                method: 'POST',
-                dataType: 'json',
-                data:{
-                  name: name.val(),
-                  lname: lname.val(),
-                  email: email.val(),
-                  phone: phone.val(),
-                  body: body.val()
-                }, success:function(response){
-                  $('#myForm')[0].reset();
-                  $('.sent-notification').text("Message sent Successfully.");
-                }
-          });
-      }
-    }else{
-      console.log("1");
-    }
-   </script>
-
 <!-- contact section -->
-  <section class="contact_section layout_padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-11 col-lg-9 mx-auto">
-          <div class="map_form_container">
-            <div class="form_container">
-              <div class="heading_container heading_center">
-                <h2 class="contact_heading">
-                  Contact <span>Us</span>
-                </h2>
-              </div>
-
-<h4 class="sent-notification"></h4>
-              <form id="myForm">
-                <div class="form-row">
-                  <div class="form-group col-md-6">
-                    <input  type="text" class="form-control" id="name" placeholder="First Name" />
-                  </div>
-                  <div class="form-group col-md-6">
-                    <input type="text" class="form-control" id="lname" placeholder="Last Name" />
-                  </div>
-                </div>
-                <div class="form-row">
-                  <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="email" placeholder="Email" />
-                  </div>
-                  <div class="form-group col-md-6">
-                    <input type="number" class="form-control" id="phone" placeholder="Phone Number" />
-                  </div>
-                </div>
-                <div class="form-group ">
-                  <textarea class="message-box" id="body"  placeholder="message"></textarea>
-                </div>
-                <div class="btn-box">
-                  <button type="button" onclick="sendEmail()" class="submit_btn">Send</button>
-                </div>
-              </form>
-
+<section class="contact_section layout_padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-11 col-lg-9 mx-auto">
+        <div class="map_form_container">
+          <div class="form_container">
+            <div class="heading_container heading_center">
+              <h2 class="contact_heading">
+                Contact <span>Us</span>
+              </h2>
             </div>
-            <div class="map_container">
-              <div class="map">
-                <div id="googleMap"></div>
+
+            <h4 class="sent-notification"></h4>
+            <form id="contactUs">
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <input type="text" class="form-control" id="fname" placeholder="First Name" />
+                  <div id="status_f_name"></div>
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="text" class="form-control" id="lname" placeholder="Last Name" />
+                  <div id="status_l_name"></div>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <input type="email" class="form-control" id="email" placeholder="Email" />
+                  <div id="status_email"></div>
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="number" class="form-control" id="phone" placeholder="Phone Number" />
+                  <div id="status_phone"></div>
+                </div>
+              </div>
+              <div class="form-group ">
+                <textarea class="message-box" id="msg" placeholder="message"></textarea>
+                <div id="status_msg"></div>
               </div>
               <div class="btn-box">
-                <button id="showForm" class="map_btn">
-                  Form
-                </button>
+                <input type="hidden" id="identifier" value="<?= md5("contactUs") ?>">
+                <button type="button" class="processCFData">Send</button>
+                <div id="status_cf"></div>
               </div>
+            </form>
+
+          </div>
+          <div class="map_container">
+            <div class="map">
+              <div id="googleMap"></div>
+            </div>
+            <div class="btn-box">
+              <button id="showForm" class="map_btn">
+                Form
+              </button>
             </div>
           </div>
         </div>
-
       </div>
+
     </div>
-  </section>
-
-
-
+  </div>
+</section>
