@@ -1,11 +1,11 @@
-// // to get current year
-// function getYear() {
-//     var currentDate = new Date();
-//     var currentYear = currentDate.getFullYear();
-//     document.querySelector("#displayYear").innerHTML = currentYear;
-// }
+// to get current year
+function getYear() {
+	var currentDate = new Date();
+	var currentYear = currentDate.getFullYear();
+	document.querySelector("#displayYear").innerHTML = currentYear;
+}
 
-// getYear();
+getYear();
 
 // // map form show
 // if (document.querySelector("#showMap")) {
@@ -35,25 +35,24 @@
 
 // Form handling 
 
-$(document).ready(function() {
-	$("#processCFData").on("click", function(e) {
+$(document).ready(function () {
+	$("#processCFData").on("click", function (e) {
 		e.preventDefault();
 
 		const identifier = $("#identifier").val();
-
-        const fname = $("#fname").val();
-        const lname = $("#lname").val();
-        const email = $("#email").val();
-        const phone = $("#phone").val();
-        const msg = $("#msg").val();
+		const fname = $("#fname").val();
+		const lname = $("#lname").val();
+		const email = $("#email").val();
+		const phone = $("#phone").val();
+		const msg = $("#msg").val();
 
 		let arr = {
 			identifier: identifier,
-            fname: fname,
-            lname: lname,
-            email: email,
-            phone: phone,
-            msg: msg
+			fname: fname,
+			lname: lname,
+			email: email,
+			phone: phone,
+			msg: msg
 		};
 
 		$.ajax({
@@ -62,13 +61,13 @@ $(document).ready(function() {
 			type: "POST",
 			data: JSON.stringify(arr),
 			contentType: "application/json; charset=utf-8",
-			beforeSend: function() {
+			beforeSend: function () {
 				// $('.ajax-loader').css("visibility", "visible");
 			},
-			complete: function() {
+			complete: function () {
 				// $('.ajax-loader').css("visibility", "hidden");
 			},
-			success: function(response) {
+			success: function (response) {
 				const resp = JSON.parse(response);
 
 				if (resp.status == "error") {
@@ -80,7 +79,7 @@ $(document).ready(function() {
 								.fadeIn(500)
 								.html(resp.msg);
 
-							$("#fname").keyup(function() {
+							$("#fname").keyup(function () {
 								$("#fname").removeClass("border-danger");
 								$("#status_fname").removeClass("text-danger");
 								$("#status_fname").empty();
@@ -93,7 +92,7 @@ $(document).ready(function() {
 								.fadeIn(500)
 								.html(resp.msg);
 
-							setTimeout(function() {
+							setTimeout(function () {
 								$("#status_cf").fadeOut("slow");
 								$("#status_cf").empty();
 							}, 3000);
@@ -111,7 +110,7 @@ $(document).ready(function() {
 
 							$("#find-a-mechanic-form").trigger("reset");
 
-							setTimeout(function() {
+							setTimeout(function () {
 								$("#status_cf").fadeOut("slow");
 								$("#status_cf").removeClass("text-success");
 								$("#status_cf").empty();
@@ -124,7 +123,7 @@ $(document).ready(function() {
 						.fadeIn(500)
 						.html(resp.msg);
 
-					setTimeout(function() {
+					setTimeout(function () {
 						$("#status_cf").fadeOut("slow");
 						$("#status_cf").removeClass("text-danger");
 						$("#status_cf").empty();
@@ -133,14 +132,13 @@ $(document).ready(function() {
 				}
 			},
 
-			error: function() {
-				alert("Someting went wrong");
+			error: function () {
 				$("#status_cf")
 					.addClass("text-danger")
 					.fadeIn(500)
 					.html("No Internet");
 
-				setTimeout(function() {
+				setTimeout(function () {
 					$("#status_cf").fadeOut("slow");
 					$("#status_cf").empty();
 				}, 3000);

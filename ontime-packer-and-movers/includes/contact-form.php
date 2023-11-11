@@ -39,7 +39,7 @@
               </div>
               <div class="btn-box">
                 <input type="hidden" id="identifier" value="<?= md5("contactUs") ?>">
-                <button type="button" class="processCFData">Send</button>
+                <button type="button" id="processCFData">Send</button>
                 <div id="status_cf"></div>
               </div>
             </form>
