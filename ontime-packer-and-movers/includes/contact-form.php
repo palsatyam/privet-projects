@@ -1,4 +1,50 @@
-  <!-- contact section -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+   <script>
+
+    function sendEmail(){
+      var name = $("#name");
+      var lname = $("#lname");
+      var email = $("#email");
+      var phone = $("#phone");
+      var body = $("#body");
+
+
+      console.log(name.val());
+
+      function isNotEmpty(caller){
+      if(caller.val()==""){
+        caller.css('border','1px solid red');
+        return false;
+      }
+      else{
+        caller.css('border','');
+        retrn true;
+      }
+    }
+
+      if(isNotEmpty(name) && isNotEmpty(lname) && isNotEmpty(email) && isNotEmpty(phone) && isNotEmpty(body)){
+        $.ajax({
+                url: 'sendEmail.php',
+                method: 'POST',
+                dataType: 'json',
+                data:{
+                  name: name.val(),
+                  lname: lname.val(),
+                  email: email.val(),
+                  phone: phone.val(),
+                  body: body.val()
+                }, success:function(response){
+                  $('#myForm')[0].reset();
+                  $('.sent-notification').text("Message sent Successfully.");
+                }
+          });
+      }
+    }else{
+      console.log("1");
+    }
+   </script>
+
+<!-- contact section -->
   <section class="contact_section layout_padding">
     <div class="container">
       <div class="row">
@@ -23,14 +69,14 @@
                 </div>
                 <div class="form-row">
                   <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="eamil" placeholder="Email" />
+                    <input type="email" class="form-control" id="email" placeholder="Email" />
                   </div>
                   <div class="form-group col-md-6">
                     <input type="number" class="form-control" id="phone" placeholder="Phone Number" />
                   </div>
                 </div>
                 <div class="form-group ">
-                  <textarea class="message-box" id="body"  placeholder="Message"></textarea>
+                  <textarea class="message-box" id="body"  placeholder="message"></textarea>
                 </div>
                 <div class="btn-box">
                   <button type="button" onclick="sendEmail()" class="submit_btn">Send</button>
@@ -56,44 +102,4 @@
   </section>
 
 
-  <script
-  src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-   <script type="text/javascript">
-    function sendEmail(){
-      var name = $("#name");
-      var lname = $("#lname");
-      var email = $("#email");
-      var phone = $("#phone");
-      var body = $("#body");
 
-      if(isNotEmpty(name) && isNotEmpty(lname) && isNotEmpty(email) && isNotEmpty(phone) && isNotEmpty(body)){
-        $.ajax({
-                url: 'sendEmail.php',
-                method: 'POST',
-                dataType: 'json',
-                data:{
-                  name: name.val(),
-                  lname: lname.val(),
-                  email: email.val(),
-                  phone: phone.val(),
-                  body: body.val()
-                }, success:function(response){
-                  $('#myForm')[0].reset();
-                  $('.sent-notification').text("Message sent Successfully.");
-                }
-          });
-      }
-    }
-
-
-    function isNotEmpty(caller){
-      if(caller.val()==""){
-        caller.css('border','1px solid red');
-        return false;
-      }
-      else{
-        caller.css('border','');
-        retrn true;
-      }
-    }
-   </script>
