@@ -6373,7 +6373,7 @@ a.close.disabled {
   box-sizing: content-box;
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
-  width: 30px;
+  width:30px;
   height: 3px;
   margin-right: 3px;
   margin-left: 3px;

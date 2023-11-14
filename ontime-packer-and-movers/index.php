@@ -324,6 +324,61 @@
 
   <!-- end service section -->
 
+<div id="slider">  
+<div class="slides">  
+  <img src="https://hhsbanner.com/wp-content/uploads/2019/03/victoria_falls-900x300.jpg" width="100%" />
+ </div>
+  
+  <div class="slides">  
+  <img src="https://blog.cognifit.com/wp-content/uploads/2019/11/hiking-900x300.jpg" width="100%" />
+</div>
+  
+  <div class="slides">  
+  <img src="https://travelfree.info/wp-content/uploads/2018/02/croatia-waterfall-in-deep-forest-of-Cr-12755165-900x300.jpg" width="100%" />
+</div> 
+  
+   <div class="slides">  
+  <img src="https://www.piemonturismo.it/site/wp-content/uploads/2014/07/13-laghi-grande.jpg" width="100%" />
+</div> 
+  
+<div class="slides">  
+  <img src="https://improvephotography.com/wp-content/uploads/2017/09/Julian-Baird-20170914-3-900px.jpg" width="100%" />
+</div>  
+  
+  <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+ </div>
+
+ <script>
+  var index = 0;
+var slides = document.querySelectorAll(".slides");
+var dot = document.querySelectorAll(".dot");
+
+function changeSlide(){
+
+  if(index<0){
+    index = slides.length-1;
+  }
+  
+  if(index>slides.length-1){
+    index = 0;
+  }
+  
+  for(let i=0;i<slides.length;i++){
+    slides[i].style.display = "none";
+    dot[i].classList.remove("active"); 
+  }
+  
+  slides[index].style.display= "block";
+  dot[index].classList.add("active");
+  
+  index++;
+  
+  setTimeout(changeSlide,2000);
+  
+}
+
+changeSlide();
+ </script>
 
 <!-- Projects reting section Starts-->
 
@@ -535,7 +590,9 @@ _waEmbed(wa_btnSetting);
                     <i class="fa fa-map-marker" aria-hidden="true"></i>
                   </div>
                   <p>
-                    All Over India
+                                     HCMR+6G4 Panchmukhi Round About,||
+                  Samrat Ashok Rd, Sector 1, ||
+                  Greater Noida, Uttar Pradesh 203207, India
                   </p>
                 </div>
               </a>
@@ -591,7 +648,7 @@ _waEmbed(wa_btnSetting);
       <div class="container">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By 
-          <a href="www.codexzon.com"> CODEXZON (ER-SATYAM PAL)</a>
+          <a href="www.codexzon.com"> CODEXZON</a>
         </p>
       </div>
     </div>
