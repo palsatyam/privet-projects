@@ -31,7 +31,7 @@ try {
 
     //Recipients
     $mail->setFrom("mail@houseshiftingpartner.com", "House Shifting Partner");
-    $mail->addAddress("imailtosatyam@gmail.com", "Satyam Pal"); //Add a recipient
+    $mail->addAddress("houseshiftingpartner@gmail.com", "Naveen Chaudhary"); //Add a recipient
     $mail->addReplyTo(
         "mail@houseshiftingpartner.com",
         "House Shifting Partner"
