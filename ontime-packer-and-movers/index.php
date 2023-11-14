@@ -146,6 +146,8 @@
                         in producing an outstanding moving experience.
                         Beyond the standard packing and moving services, we provide a range of
                          advanced amenities with a priority on quality and client pleasure.
+                         transportation,
+                    we ensure the safe and efficient transfer to your new home.
                     </p>
                     <div class="btn-box">
                       <a href="contact.php" class="btn1">
@@ -175,8 +177,7 @@
                     than House Shifting Partner for all your relocation needs.
                      Our expert team is dedicated to making your moving experience as
                       smooth and stress-free as possible. With our comprehensive range of services,
-                       including packing, transportation,
-                     and unpacking, we ensure the safe and efficient transfer of your belongings to your new home.
+                       including packing, 
                     </p>
                     <div class="btn-box">
                       <a href="contact.php" class="btn1">
