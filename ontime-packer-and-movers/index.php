@@ -327,23 +327,23 @@
 
 <div id="slider">  
 <div class="slides">  
-  <img src="https://hhsbanner.com/wp-content/uploads/2019/03/victoria_falls-900x300.jpg" width="100%" />
+  <img src="images/gallary-1.jpg" width="100%" />
  </div>
   
   <div class="slides">  
-  <img src="https://blog.cognifit.com/wp-content/uploads/2019/11/hiking-900x300.jpg" width="100%" />
+  <img src="images/gallary-2.png  " width="100%" />
 </div>
   
   <div class="slides">  
-  <img src="https://travelfree.info/wp-content/uploads/2018/02/croatia-waterfall-in-deep-forest-of-Cr-12755165-900x300.jpg" width="100%" />
+  <img src="images/gallary-3.jpg" width="100%" />
 </div> 
   
    <div class="slides">  
-  <img src="https://www.piemonturismo.it/site/wp-content/uploads/2014/07/13-laghi-grande.jpg" width="100%" />
+  <img src="images/gallary-4.jpg" width="100%" />
 </div> 
   
 <div class="slides">  
-  <img src="https://improvephotography.com/wp-content/uploads/2017/09/Julian-Baird-20170914-3-900px.jpg" width="100%" />
+  <img src="images/gallary-5.jpg" width="100%" />
 </div>  
   
   <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
