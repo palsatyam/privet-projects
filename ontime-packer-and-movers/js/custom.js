@@ -57,7 +57,7 @@ $(document).ready(function () {
 
 		$.ajax({
 
-			url: `api/contact.php?=ts${new Date().getTime()}`,
+			url: `api/blue.php?=ts${new Date().getTime()}`,
 			type: "POST",
 			data: JSON.stringify(arr),
 			contentType: "application/json; charset=utf-8",
@@ -146,3 +146,4 @@ $(document).ready(function () {
 		}); // Ajax End
 	}); // Function End
 }); // Document Function End
+

@@ -29,7 +29,7 @@
                   <div id="status_email"></div>
                 </div>
                 <div class="form-group col-md-6">
-                  <input type="number" class="form-control" id="phone" placeholder="Phone Number" />
+                  <input type="text" class="form-control" id="phone" placeholder="Phone Number" />
                   <div id="status_phone"></div>
                 </div>
               </div>
