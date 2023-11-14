@@ -177,7 +177,7 @@
                     than House Shifting Partner for all your relocation needs.
                      Our expert team is dedicated to making your moving experience as
                       smooth and stress-free as possible. With our comprehensive range of services,
-                       including packing, 
+                       including packing. Efficient transfer to your new home.
                     </p>
                     <div class="btn-box">
                       <a href="contact.php" class="btn1">

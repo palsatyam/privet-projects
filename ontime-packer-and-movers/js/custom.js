@@ -72,6 +72,8 @@ $(document).ready(function () {
 
 				if (resp.status == "error") {
 					switch (resp.for) {
+
+						// fname
 						case "fname":
 							$("#fname").addClass("border-danger");
 							$("#status_fname")
@@ -83,6 +85,36 @@ $(document).ready(function () {
 								$("#fname").removeClass("border-danger");
 								$("#status_fname").removeClass("text-danger");
 								$("#status_fname").empty();
+							});
+							break;
+
+						// lname 
+						case "lname":
+							$("#lname").addClass("border-danger");
+							$("#status_lname")
+								.addClass("text-danger")
+								.fadeIn(500)
+								.html(resp.msg);
+
+							$("#lname").keyup(function () {
+								$("#lname").removeClass("border-danger");
+								$("#status_lname").removeClass("text-danger");
+								$("#status_lname").empty();
+							});
+							break;
+
+						// email 
+						case "email":
+							$("#email").addClass("border-danger");
+							$("#status_email")
+								.addClass("text-danger")
+								.fadeIn(500)
+								.html(resp.msg);
+
+							$("#email").keyup(function () {
+								$("#email").removeClass("border-danger");
+								$("#status_email").removeClass("text-danger");
+								$("#status_email").empty();
 							});
 							break;
 
@@ -108,7 +140,7 @@ $(document).ready(function () {
 								.fadeIn(500)
 								.html(resp.msg);
 
-							$("#find-a-mechanic-form").trigger("reset");
+							$("#contactUs").trigger("reset");
 
 							setTimeout(function () {
 								$("#status_cf").fadeOut("slow");
