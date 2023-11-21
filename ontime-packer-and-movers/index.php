@@ -36,7 +36,7 @@
 <body>
   <div class="hero_area">
     <div class="hero_bg_box">
-      <img src="images/hero-bg.jpg" alt="">
+      <img src="images/hero-bg.png" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
@@ -212,7 +212,7 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/about-img.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -443,7 +443,7 @@ changeSlide();
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/call-img.jpg" alt="">
+            <img src="images/call-img.png" alt="">
           </div>
         </div>
         <div class="col-md-6">
