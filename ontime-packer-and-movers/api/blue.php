@@ -114,7 +114,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "phone",
-                "msg" => "Invalid Phone No",
+                "msg" => "Invalid Phone Number",
             ]);
             echo $pre_resp;
             exit();

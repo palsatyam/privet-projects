@@ -72,7 +72,7 @@ try {
     $pre_resp = json_encode([
         "status" => "success",
         "for" => "contact_form",
-        "msg" => "Mail Sent Successfully",
+        "msg" => "Message send Successfully",
     ]);
     echo $pre_resp;
     exit();

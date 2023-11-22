@@ -38,12 +38,15 @@
                 <textarea class="message-box" id="msg" placeholder="message"></textarea>
                 <div id="status_msg"></div>
               </div>
+
+
               <div class="btn-box">
                 <input type="hidden" id="identifier" value="<?= md5("contactUs") ?>">
-                <button type="button" id="processCFData">Send</button>
+                <button type="button" id="processCFData" style="background-color:#10c695">Send</button>
                 <div id="status_cf"></div>
               </div>
             </form>
+
 
           </div>
           <div class="map_container">
@@ -56,6 +59,7 @@
               </button>
             </div>
           </div>
+          
         </div>
       </div>
 
