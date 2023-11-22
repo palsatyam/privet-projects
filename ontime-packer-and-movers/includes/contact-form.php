@@ -27,6 +27,7 @@
                 <div class="form-group col-md-6">
                   <input type="email" class="form-control" id="email" placeholder="Email" />
                   <div id="status_email"></div>
+                  
                 </div>
                 <div class="form-group col-md-6">
                   <input type="text" class="form-control" id="phone" placeholder="Phone Number" />

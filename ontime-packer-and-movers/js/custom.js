@@ -76,30 +76,30 @@ $(document).ready(function () {
 						// fname
 						case "fname":
 							$("#fname").addClass("border-danger");
-							$("#status_fname")
+							$("#status_f_name")
 								.addClass("text-danger")
 								.fadeIn(500)
 								.html(resp.msg);
 
 							$("#fname").keyup(function () {
 								$("#fname").removeClass("border-danger");
-								$("#status_fname").removeClass("text-danger");
-								$("#status_fname").empty();
+								$("#status_f_name").removeClass("text-danger");
+								$("#status_f_name").empty();
 							});
 							break;
 
 						// lname 
 						case "lname":
 							$("#lname").addClass("border-danger");
-							$("#status_lname")
+							$("#status_l_name")
 								.addClass("text-danger")
 								.fadeIn(500)
 								.html(resp.msg);
 
 							$("#lname").keyup(function () {
 								$("#lname").removeClass("border-danger");
-								$("#status_lname").removeClass("text-danger");
-								$("#status_lname").empty();
+								$("#status_l_name").removeClass("text-danger");
+								$("#status_l_name").empty();
 							});
 							break;
 
@@ -117,6 +117,38 @@ $(document).ready(function () {
 								$("#status_email").empty();
 							});
 							break;
+
+						// phone 
+						case "phone":
+							$("#phone").addClass("border-danger");
+							$("#status_phone")
+								.addClass("text-danger")
+								.fadeIn(500)
+								.html(resp.msg);
+
+							$("#phone").keyup(function () {
+								$("#phone").removeClass("border-danger");
+								$("#status_phone").removeClass("text-danger");
+								$("#status_phone").empty();
+							});
+							break;
+
+
+						// message 
+						case "msg":
+							$("#msg").addClass("border-danger");
+							$("#status_msg")
+								.addClass("text-danger")
+								.fadeIn(500)
+								.html(resp.msg);
+
+							$("#msg").keyup(function () {
+								$("#msg").removeClass("border-danger");
+								$("#status_msg").removeClass("text-danger");
+								$("#status_msg").empty();
+							});
+							break;
+
 
 						case "contact_form":
 							$("#status_cf")
@@ -178,4 +210,3 @@ $(document).ready(function () {
 		}); // Ajax End
 	}); // Function End
 }); // Document Function End
-

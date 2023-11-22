@@ -14,7 +14,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "fname",
-                "msg" => "Please fill first name",
+                "msg" => "Please Fill First Name",
             ]);
             echo $pre_resp;
             exit();
@@ -23,7 +23,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "fname",
-                "msg" => "Please Enter Alphabatic Charectors",
+                "msg" => "Please Enter  Alphabetic Characters",
             ]);
             echo $pre_resp;
             exit();
@@ -53,7 +53,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "lname",
-                "msg" => "Please Enter Alphabatic Charectors 1",
+                "msg" => "Please Enter Alphabatic Charectors",
             ]);
             echo $pre_resp;
             exit();
@@ -62,7 +62,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "lname",
-                "msg" => "Please Enter Alphabatic Charectors 2",
+                "msg" => "Please Enter Alphabatic Charectors",
             ]);
             echo $pre_resp;
             exit();
@@ -83,7 +83,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "email",
-                "msg" => "Please enter an acurate email",
+                "msg" => "Please include an '@' in this email ",
             ]);
             echo $pre_resp;
             exit();
@@ -96,7 +96,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "phone",
-                "msg" => "Please Enter Phone No",
+                "msg" => "Please Enter Phone Number",
             ]);
             echo $pre_resp;
             exit();
@@ -105,7 +105,7 @@ switch ($data->identifier) {
                 "status" => "error",
                 "validation" => "fail",
                 "for" => "phone",
-                "msg" => "Phone No is empty",
+                "msg" => "Phone Number is empty",
             ]);
             echo $pre_resp;
             exit();
