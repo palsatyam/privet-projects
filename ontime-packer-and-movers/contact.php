@@ -213,10 +213,16 @@ _waEmbed(wa_btnSetting);
     </div>
     <div class="footer-info">
       <div class="container">
+<div class="container">
+        <p>
+        <a href="privacy_policy.html">Privacy Policy /</a>  
+          <a href="term_condition.html">Term & Condition</a>
+        </p>
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By 
-          <a href="www.codexzon.com"> CODEXZON </a>
+          <a href="www.codexzon.com"> CODEXZON</a>
         </p>
+      </div>
       </div>
     </div>
   </footer>
